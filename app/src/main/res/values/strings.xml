@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Demo 4.1</string>
+    <string name="name">Name</string>
+    <string name="contact">Contact</string>
+    <string name="save">Save</string>
+    <string name="error_value_required">Value is required</string>
+    <string name="error_record_not_saved">Record not saved</string>
+    <string name="record_saved">Record saved</string>
+</resources>
